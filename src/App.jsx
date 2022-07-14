@@ -15,7 +15,7 @@ const App = () => {
                 <li className="li1">Kontaktlar</li>
                 <li className="li1">Blog</li>
                 <li className='li1'>Xizmatlar</li>
-            <button className="button-29" role="button">+998 90 921 37 11</button>
+            <button className="button-29" >+998 90 921 37 11</button>
             </ul>
             
         </div>
