@@ -21,7 +21,7 @@ const App = () => {
         </div>
      
     </nav>
-      <div className="container">
+      {/* <div className="container">
       <div className="text">
       <h1 className='one'>Biznesingizni keyingi bosqichga olib chiqing</h1> <br />
       <p>Nullam laoreet nec turpis et ultrices. Duis sit amet quam arcu. Nam facilisis lacinia ex, eget sollicitudin massa pellentesque in. Vivamus mattis eros at sem pulvinar</p> <br />
@@ -29,7 +29,7 @@ const App = () => {
       <button className=" ona">Xizmatar bilan tanishish</button>
       </div>
       <img src="./youtube-embed.pmg" alt="" />
-      </div>
+      </div> */}
  
       
     </div>
